@@ -1,10 +1,7 @@
 ## About Me
 
-Hi, I'm Erica. I graduated from Queen's University with an Honours Bachelor of Science,
-in physics with a minor in geology in 2021. I have recently completed the Data Analytics, Big Data, and 
-Predictive Analytics certificate at Toronto Metropolitan University, and graduated in fall 2022. I have 
-spent the last year learning how to correctly and efficiently preform statistical and exploratory analysis to solve all 
-types of problems. I am very eager to join the exciting world of data analytics. 
+Hi, I'm Erica. I am a creative person that loves to solve problems and learn new things. I have a a bachelor of science in physics with a minor in geology from Queen's University and a certificate in data analysis from Toronto Metropolitan University. I am also taking a couple of courses on Udemy and freeCodeCamp. 
+ 
 
 
 
